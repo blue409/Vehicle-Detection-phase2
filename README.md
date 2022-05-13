@@ -184,7 +184,7 @@ compare_images(car_image, notcar_image, "Car", "Not Car")
 ```
 
 
-![png](./output/output_7_0.png)
+![png](/output_7_0.png)
 
 
 ## Extracting features
