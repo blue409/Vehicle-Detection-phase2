@@ -2,7 +2,7 @@
 
 [Video demo](https://www.youtube.com/watch?v=I71cHXfSWxw&feature=youtu.be)
 
-![png](./output/top.png)
+![png](.top.png)
 
 ## Overview
 
