@@ -251,19 +251,19 @@ show_images(car_ch3, car_ch3_features, notcar_ch3, notcar_ch3_features, "Car ch 
 
 
 
-![png](./output/output_9_1.png)
+![png](/output_9_1.png)
 
 
 
-![png](./output/output_9_2.png)
+![png](/output_9_2.png)
 
 
 
-![png](./output/output_9_3.png)
+![png](/output_9_3.png)
 
 
 
-![png](./output/output_9_4.png)
+![png](/output_9_4.png)
 
 
 ## Training classifier
@@ -491,11 +491,11 @@ show_images(output_image4, output_image5, output_image6)
 
 
 
-![png](./output/output_13_1.png)
+![png](/output_13_1.png)
 
 
 
-![png](./output/output_13_2.png)
+![png](/output_13_2.png)
 
 
 ## Creating heatmap
@@ -564,7 +564,7 @@ show_images(output_image, heatmap, "Car Positions", "Result")
 ```
 
 
-![png](./output/output_15_0.png)
+![png](/output_15_0.png)
 
 
 ## More heatmaps
@@ -603,27 +603,27 @@ show_images(output_image6, heatmap6)
 ```
 
 
-![png](./output/output_17_0.png)
+![png](/output_17_0.png)
 
 
 
-![png](./output/output_17_1.png)
+![png](/output_17_1.png)
 
 
 
-![png](./output/output_17_2.png)
+![png](/output_17_2.png)
 
 
 
-![png](./output/output_17_3.png)
+![png](/output_17_3.png)
 
 
 
-![png](./output/output_17_4.png)
+![png](/output_17_4.png)
 
 
 
-![png](./output/output_17_5.png)
+![png](/output_17_5.png)
 
 
 ## Labeled image
@@ -641,7 +641,7 @@ plt.imshow(labels[0], cmap='gray')
 
 
 
-![png](./output/output_19_1.png)
+![png](/output_19_1.png)
 
 
 ## Resulting bonding boxes
@@ -659,7 +659,7 @@ plt.imshow(draw_img)
 
 
 
-![png](./output/output_21_1.png)
+![png](/output_21_1.png)
 
 
 ## Applying to video
